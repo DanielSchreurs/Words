@@ -1,0 +1,18 @@
+{
+  "name": "words",
+  "main": "./lib/words",
+  "version": "0.0.0",
+  "description": "A simple pakcage that alows you to inverse two words",
+  "keywords": ["words","inverse"
+  ],
+  "activationCommands": {
+    "atom-workspace": "words:inverse"
+  },
+  "repository": "https://github.com/atom/words",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
