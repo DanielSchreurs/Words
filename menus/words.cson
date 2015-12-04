@@ -10,11 +10,11 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'words'
+      'label': 'Words'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'words:toggle'
+          'label': 'Inverse words'
+          'command': 'words:inverse'
         }
       ]
     ]
