@@ -7,4 +7,7 @@ Inverse selected words The keyboard shortcut is `ctrl + alt + i`
 Hello world
 ```
 
-will turn into ``` world Hello
+will turn into
+``` 
+world Hello
+```
