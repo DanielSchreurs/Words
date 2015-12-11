@@ -1,7 +1,7 @@
 {
   "name": "words",
   "main": "./lib/words",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "author": "Daniel Schreurs",
   "description": "A simple package that alows you to inverse two words",
   "keywords": [
