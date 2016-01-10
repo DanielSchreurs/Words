@@ -13,4 +13,5 @@ module.exports =
 
   inverse: ->
     if editor = atom.workspace.getActiveTextEditor()
+        sReverseString = editor.getSelectedText().split(/\s/).reverse().join(' ')
         editor.insertText sReverseString,{'select':true}
